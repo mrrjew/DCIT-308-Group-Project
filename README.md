@@ -13,5 +13,6 @@ This is a console-based offline Java application to manage logistics, deliveries
 
 ## How to Run
 
-javac src/**/*.java
-java -cp src Main
+cd FleetSystem
+cd out
+java Main
