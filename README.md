@@ -5,7 +5,7 @@ This is a console-based offline Java application to manage logistics, deliveries
 ## Folder Structure
 
 - `src/` - Java source code
-- `data/` - Flat file storage (txt files)
+- `../data/` - Flat file storage (txt files)
 - `models/` - Data classes (Vehicle, Driver, Delivery, Maintenance)
 - `managers/` - Core logic and data structures
 - `menu/` - CLI interaction and user interface
